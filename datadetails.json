@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nandha",
+      "email": "nandha@example.com",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "642c",
+      "name": "nandhakumar",
+      "email": "nandhakumar@gmail.com",
+      "role": "cse",
+      "status": "Active"
+    }
+  ]
+}
